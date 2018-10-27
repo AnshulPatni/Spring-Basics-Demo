@@ -1,4 +1,4 @@
-package com.luv2code.springdemo;
+package com.anshul.springdemo;
 
 public class HappyFortuneService implements FortuneService {
 
